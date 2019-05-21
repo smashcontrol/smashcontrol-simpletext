@@ -1,0 +1,18 @@
+{
+  "name": "smashcontrol-simpletext",
+  "version": "1.0.0",
+  "author": "swc19",
+  "license": "GPL-3.0",
+  "dependencies": {},
+  "nodecg": {
+    "compatibleRange": "^1.0.0",
+    "bundleDependencies": {},
+    "graphics": [
+      {
+        "file": "layout.html",
+        "width": 1920,
+        "height": 1080
+      }
+    ]
+  }
+}
