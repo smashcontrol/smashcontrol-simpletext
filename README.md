@@ -1,4 +1,4 @@
-#smashcontrol-simpletext
+# smashcontrol-simpletext
 
 This is intended to be a simple graphics bundle run with [nodecg-smashcontrol](https://github.com/smashcontrol/nodecg-smashcontrol) to display
 information generated there. Check out the documentation there for more info.  
@@ -9,7 +9,7 @@ information generated there. Check out the documentation there for more info.
  with [RIT Smash Club's layout](https://github.com/swc19/rit-graphics).
  
  
- ###Installation
+ ### Installation
  
 View the instructions in [nodecg-smashcontrol](https://github.com/smashcontrol/nodecg-smashcontrol) to install that,
 then run `nodecg install smashcontrol/smashcontrol-simpletext` to get this bundle.
