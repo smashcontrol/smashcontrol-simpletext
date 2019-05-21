@@ -38,7 +38,7 @@ $(() => {
             bracket.html(setData.bracketlocation);
             player1tag.html(setData.player1tag);
             player2tag.html(setData.player2tag);
-            var linkToImage = "../../../nodecg-smashcontrol/dashboard/images/" + setData.game + "/"
+            var linkToImage = "../../nodecg-smashcontrol/dashboard/images/" + setData.game + "/";
             p1ch.children().attr("src", (linkToImage + setData.player1character + ".png"));
             p2ch.children().attr("src", (linkToImage + setData.player2character + ".png"));
         }
